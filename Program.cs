@@ -10,6 +10,12 @@
         //{
         //    public string Name;
         //}
+
+        //class Student
+        //{
+        //    public string? name { get; set; }
+        //    private int age { get; set; }
+        //}
         static void Main(string[] args)
         {
             #region Part01
@@ -51,6 +57,13 @@
 
             #endregion
             #region Q2
+            // public : accessible everywhere
+            // private : accessible only inside the same class
+
+            //Student s = new Student();
+            //s.name = "Shorouk";  // Ok
+            //s.age = 20; // Error (private)
+
             #endregion
             #region Q3
             #endregion
