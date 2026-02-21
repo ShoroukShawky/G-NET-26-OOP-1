@@ -79,6 +79,16 @@
 
             #endregion
             #region Q4
+            // Class Library:
+            // - a project that contains reusable classes and methods
+            // - it doesn't contain a Main() method
+            // - it cannot run alone
+
+            // Why we use it:
+            // - reuse code in multiple projects
+            // - different developers can work on different libraries independently
+            // - separate the system into different parts
+            // - make code cleaner and maintainable
             #endregion
             #endregion
             #region Part02
