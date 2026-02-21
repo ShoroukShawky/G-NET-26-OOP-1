@@ -66,6 +66,17 @@
 
             #endregion
             #region Q3
+            // 1) open visual studio
+            // 2) click create new project
+            // 3) choose class library (.NET)
+            // 4) name the project
+            // 5) add your classes inside it
+            // 6) build the project
+            // 7) create another project (Console App)
+            // 8) right click console project → Add Reference
+            // 9) select your classlLibrary
+            // 10) now you can use its classes inside the Console App
+
             #endregion
             #region Q4
             #endregion
